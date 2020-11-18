@@ -15,5 +15,6 @@ public class HelloGit {
         System.out.println("分支添加");
         System.out.println("更新一下");
         System.out.println("克隆项目添加");
+        System.out.println("测试ssh免密登录");
     }
 }
